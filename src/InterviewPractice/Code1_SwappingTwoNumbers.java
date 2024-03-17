@@ -24,7 +24,6 @@ public class Code1_SwappingTwoNumbers {
         b = a/b;    // 200/20=10
         a = a/b;    // 200/10=20
 
-
         System.out.println("Before Swappig A and B:- "+ a +" "+ b);
     }
 }
